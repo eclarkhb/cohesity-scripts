@@ -1,2 +1,2 @@
 # cohesity-scripts
-Cohesity Scripts
+This is a repository for Cohesity scripts.
