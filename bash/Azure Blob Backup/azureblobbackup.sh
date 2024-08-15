@@ -22,8 +22,10 @@
 
 # Begin Script
 #
-AZURE_ACCOUNT_NAME=349092cloudazure66
-AZURE_ACCOUNT_KEY=YjKz6w/l8bCn3Jrzcnp9+xy0yrjCiYoLOmYFtNOua2sQ/41mUZ8nJ2rRikidymuUphowpd3VcXiF+AStarAUgQ==
+# Fill in Azure Account Details below
+#
+AZURE_ACCOUNT_NAME=
+AZURE_ACCOUNT_KEY=
 MOUNT=/mnt/nfs/AzureBlobBackup
 
 AZURE_CONTAINERS=($(
